@@ -2,14 +2,11 @@
 Examples of Flutter Step progress bar. if you want flork or clone and use it.
 
 <div style="width=100%">
-<div style="width=50%">
-<img src="Horizontal.png" title="Flutter Horizontal Stepper Progress">
+<img style="width=50%" src="Horizontal.png" title="Flutter Horizontal Stepper Progress">
+<img style="width=50%" src="Vertical.png" title="Flutter Vertical Stepper Progress">
 
 </div>
-<div style="width=50%">
-<img src="Vertical.png" title="Flutter Vertical Stepper Progress">
 
-</div>
-</div>
-![Flutter Horizontal Stepper Progress](Horizontal.png)
-![Flutter Vertical Stepper Progress](Vertical.png)
+[comment]: <> (![Flutter Horizontal Stepper Progress]&#40;Horizontal.png&#41;)
+
+[comment]: <> (![Flutter Vertical Stepper Progress]&#40;Vertical.png&#41;)
