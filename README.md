@@ -25,12 +25,11 @@ flutter doctor
 ```
 flutter run
 ```
+### ✌&ensp;Preview
 
-<div >
-<img style="width=250px" src="Horizontal.png" title="Flutter Horizontal Stepper Progress">
-<img style="width=250px" src="Vertical.png" title="Flutter Vertical Stepper Progress">
-
-</div>
+|              Horizontal Stepper Progress             |             Vertical Stepper Progress          |
+| :----------------------------------: | :----------------------------------: |
+|  <img src="Horizontal.png" width="350"> | <img src="Vertical.png" width="350">|
 
 [comment]: <> (![Flutter Horizontal Stepper Progress]&#40;Horizontal.png&#41;)
 
